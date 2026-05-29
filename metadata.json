@@ -1,0 +1,6 @@
+{
+  "name": "Turismo Puerto Montt",
+  "description": "Plataforma web de turismo para Puerto Montt con API REST, atractivos turísticos, comercios locales, horarios de buses y panel de administrador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
